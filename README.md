@@ -52,6 +52,7 @@ src="https://img.shields.io/twitter/follow/abhinavpatel072?logo=twitter&style=fo
 
 ![Graph_3](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinavpatel072&theme=github_dark)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshsharmaglbitm&" alt="adarshsharmaglbitm" /></p>
 <!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nirmit27&theme=react-dark&hide_border=true&bg_color=1c1917)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
