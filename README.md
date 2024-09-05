@@ -1,6 +1,6 @@
 <!-- [![](https://visitcount.itsvg.in/api?id=amanchandra100&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in) -->
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abhinav Patel
+Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abhinav Patel
 =====================================================================================================================================
 
 Web Developer And Designer
@@ -49,10 +49,5 @@ src="https://img.shields.io/twitter/follow/abhinavpatel072?logo=twitter&style=fo
 
 ![Graph_2](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhinavpatel072&theme=github_dark)
 ![Graph_1](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhinavpatel072&theme=github_dark)
-
 ![Graph_3](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinavpatel072&theme=github_dark)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshsharmaglbitm&" alt="adarshsharmaglbitm" /></p>
-<!--
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nirmit27&theme=react-dark&hide_border=true&bg_color=1c1917)](https://github.com/ashutosh00710/github-readme-activity-graph)
--->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhinavpatel072&theme=github-dark&hide_border=false&border=30363D&stroke=30363D)
