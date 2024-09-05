@@ -45,3 +45,13 @@ src="https://img.shields.io/twitter/follow/abhinavpatel072?logo=twitter&style=fo
   <a href="http://www.instagram.com/its__a6hii__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
   </p>
 
+## 📊 GitHub Stats:
+
+![Graph_2](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhinavpatel072&theme=github_dark)
+![Graph_1](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhinavpatel072&theme=github_dark)
+
+![Graph_3](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinavpatel072&theme=github_dark)
+
+<!--
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nirmit27&theme=react-dark&hide_border=true&bg_color=1c1917)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
