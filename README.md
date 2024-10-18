@@ -1,52 +1,68 @@
-<!-- [![](https://visitcount.itsvg.in/api?id=amanchandra100&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in) -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Abhinav+Patel!;" />
+</h1>
 
-Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abhinav Patel
-=====================================================================================================================================
+<h3 align="center">Computer Science engineering student, Software & Web developer from India.</h3>
 
-Web Developer And Designer
---------------------------
-
-I have been learning coding form 1st year of B Tech. Now I am learning Full Stack Web Development.
-
-* 🌍  I'm based in Gola Gokarannath,UP,India
-* 🖥️  See my portfolio at [My Portfolio](https://abhinavpatel072.github.io/Portfolio/)  which is made with HTML CSS JS.
-* ✉️  You can contact me at [abhinavpatel072@gmail.com](mailto:abhinavpatel072@gmail.com)
-* 🧠  Currently i learning Machine Learning technology.
-* 🤝  I'm open to collaborating on Web Development and Designing
-
-<a href="https://www.github.com/abhinavpatel072" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/abhinavpatel072?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<a href="https://www.twitter.com/abhinavpatel072" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/abhinavpatel072?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
-## 💻 Tech Stack:
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
+<br/>
 
 
-## 🌐 Social Profiles:
+# 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/.abhinavpatel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its__a6hii__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-patel-969a9a229/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Abhinavpatel072) 
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/abhinav-patel-969a9a229/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://www.github.com/abhinavpatel072" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-  <a href="https://www.twitter.com/abhinavpatel072" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-  <a href="http://www.instagram.com/its__a6hii__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-  </p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-%2300599C.svg?style=flat-square&logo=java8&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat-square&logo=git&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
 
-## 📊 GitHub Stats:
 
-![Graph_2](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhinavpatel072&theme=github_dark)
-![Graph_1](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhinavpatel072&theme=github_dark)
-![Graph_3](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinavpatel072&theme=github_dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhinavpatel072&theme=github-dark&hide_border=false&border=30363D&stroke=30363D)
+
+<div align="center">
+
+---
+
+<h2 align="center">⚡ Stats ⚡</h2>
+
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=abhinavpatel072&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=abhinavpatel072&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=abhinavpatel072&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+<hr/>
+
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abhinavpatel072&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+#
+
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+#
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=abhinavpatel072&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+#
+
+### 👀 All Views
+<div align="center">
+  <img src="https://profile-counter.glitch.me/abhinavpatel072/count.svg?"  />
+</div>
+
+#
+
+<img src="https://raw.githubusercontent.com/abhinavpatel072/abhinavpatel072/output/snake.svg" alt="Snake animation" />
+
+#
+
+### 😂 Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+
+---
+
+</div>
